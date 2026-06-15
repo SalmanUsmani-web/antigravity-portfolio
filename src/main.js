@@ -208,8 +208,18 @@ document.querySelector('#app').innerHTML = `
         </p>
         <span>HTML | CSS | JavaScript | Three.js</span>
         <div class="project-links">
-  <a href="#" target="_blank">Live Demo</a>
-  <a href="#" target="_blank">GitHub</a>
+  <a href="https://antigravity-portfolio-chi.vercel.app/"
+   class="project-link"
+   target="_blank"
+   rel="noopener noreferrer">
+  Live Demo
+</a>
+  <a href="https://github.com/SalmanUsmani-web/antigravity-portfolio"
+   class="project-link"
+   target="_blank"
+   rel="noopener noreferrer">
+  GitHub
+</a>
 </div>
       </div>
     </div>
@@ -225,7 +235,7 @@ document.querySelector('#app').innerHTML = `
     <div class="contact-box">
     <div>
         <h3>Mobile number</h3>
-        <a href="tel:+919675889176">+91 9675889176</a>
+        <a href="tel:+919675889176">+91 9675889176</a>s
       </div>
       <div>
         <h3>Email</h3>
@@ -239,7 +249,9 @@ document.querySelector('#app').innerHTML = `
 
       <div>
         <h3>GitHub</h3>
-        <a href="https://github.com/your-username" target="_blank">github.com/your-username</a>
+       <a href="https://github.com/SalmanUsmani-web" target="_blank" rel="noopener noreferrer">
+  GitHub
+</a>
       </div>
     </div>
 
