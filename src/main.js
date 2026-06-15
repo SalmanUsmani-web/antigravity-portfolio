@@ -23,7 +23,7 @@ document.querySelector('#app').innerHTML = `
   <section class="hero" id="home">
     <div class="hero-content">
       <p class="tag">Anti-Gravity 3D Portfolio</p>
-      <h1>Hi, I'm Salman Usmani</h1>
+      <h1>Hello, I'm Salman Usmani</h1>
       <h2>Java Backend Developer</h2>
       <h3 class="typing-text"></h3>
       <p class="desc">
@@ -223,6 +223,10 @@ document.querySelector('#app').innerHTML = `
     </p>
 
     <div class="contact-box">
+    <div>
+        <h3>Mobile number</h3>
+        <a href="tel:+919675889176">+91 9675889176</a>
+      </div>
       <div>
         <h3>Email</h3>
         <a href="mailto:salmanusmani7830@gmail.com">salmanusmani7830@gmail.com</a>
