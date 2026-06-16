@@ -244,7 +244,7 @@ document.querySelector('#app').innerHTML = `
 
       <div>
         <h3>LinkedIn</h3>
-        <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a>
+        <a href="https://www.linkedin.com/in/salman-usmani/" target="_blank">linkedin.com/in/salman-usmani</a>
       </div>
 
       <div>
